@@ -5,6 +5,7 @@ Webpack的进阶学习，这里面涉及到的Webpack相关知识点，参见我
 
         ├── dist                                 打包输出目录, 只需部署这个目录到生产环境
         ├── package.json                         项目配置信息
+        ├── config                               配置文件夹，里面是一些根据不同环境对webpack配置的文件
         ├── node_modules                         npm安装的依赖包都在这里面
         ├── src                                  源代码
         │   ├── index.html                       入口html
